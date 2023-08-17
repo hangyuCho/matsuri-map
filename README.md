@@ -7,4 +7,4 @@ yarn dev
 # or
 pnpm dev
 ```
-![]('./sample.png')
+![](./sample.png)
